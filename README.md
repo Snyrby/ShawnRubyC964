@@ -1,2 +1,2 @@
 # ShawnRubyC964
-Movie Recommender System with built in GUI
+Movie recommendation algorithm that uses Tkinter for a gui
